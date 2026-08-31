@@ -46,7 +46,7 @@ For support, issues, or suggestions, please open an issue in the repository or c
 
 ## Author
 
-- **Musayyab Shah** - [GitHub Profile](https://github.com/Musayyab-Shah)
+- **Musayyab Shah** - [GitHub Profile](https://github.com/musayyabshah)
 
 ## Copyright
 
